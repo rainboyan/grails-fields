@@ -37,7 +37,7 @@ dependencies {
 	implementation "org.grails:grails-plugin-validation"
 	implementation "org.grails:grails-datastore-core:$gormVersion"
 	implementation "org.grails:grails-datastore-gorm:$gormVersion"
-	implementation "org.grails:grails-web-gsp:$grailsGspVersion"
+	implementation "org.grails:grails-web-gsp:$grailsVersion"
 	implementation "org.grails:grails-scaffolding-core:$scaffoldingVersion"
 	implementation "commons-lang:commons-lang:2.6"
 	compileOnly "org.grails:grails-boot"
